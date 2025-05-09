@@ -2,11 +2,11 @@
 
 ## 📸 Screenshot
 ![Weather App Screenshot]
-(assests/Screenshot 1.jpg)
-(assests/Screenshot 2.png)
-(assests/Screenshot 3.png)
-(assests/Screenshot 4.png)
-(assests/Screenshot 5.png)
+(assests/Screenshot1.jpg)
+(assests/Screenshot2.png)
+(assests/Screenshot3.png)
+(assests/Screenshot4.png)
+(assests/Screenshot5.png)
 
 ## 🚀 Features
 Search weather by city name
