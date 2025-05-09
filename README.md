@@ -8,9 +8,8 @@ Responsive layout for mobile and desktop
 Error handling for invalid city names
 
 ## 🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript (Vanilla)
+Frontend: HTML, CSS3, JavaScript
 API: OpenWeatherMap API
-Deployment: GitHub Pages
 
 ## 📸 Screenshots
 <img src="assests/screenshots/Screenshot1.png" alt="screenshot1" width="400"/>
